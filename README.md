@@ -40,4 +40,5 @@ SOFTWARE.
 </p>
 
 # Conteúdos
-
+### Aula Árvores de Regressão
+- Ajuste de uma árvore de regressão para classificação do valor percentual de gorjetas de um restaurante (fictício): [Acessar](https://github.com/brunodleite/arvores_redes_ensemble_models_3/blob/main/script.ipynb)
